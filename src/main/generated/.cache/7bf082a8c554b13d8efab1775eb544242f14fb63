@@ -1,0 +1,9 @@
+// 1.21.4	-999999999-01-01T00:00:00	PurpleHeartForest/Tags for minecraft:block
+526a7c157089a703204bc58e44ee39551b2eae63 data/forest/tags/block/purple_heart_log.json
+09f732b1259fcdd84bc4ce45479deadc7d737e6a data/minecraft/tags/block/fence_gates.json
+3f9d8be104059ef9c9e2f22efd7a68f99ef88633 data/minecraft/tags/block/fences.json
+f9e7ee066b354a51b04ea992eb19ad491c327feb data/minecraft/tags/block/leaves.json
+526a7c157089a703204bc58e44ee39551b2eae63 data/minecraft/tags/block/logs.json
+1fd1a6bed96b80a982aec7369941f5101cc8fde4 data/minecraft/tags/block/logs_that_burn.json
+3c7093b0c24c89fc341173ac1e0a80ef2373f80b data/minecraft/tags/block/mineable/pickaxe.json
+3c7093b0c24c89fc341173ac1e0a80ef2373f80b data/minecraft/tags/block/needs_diamond_tool.json

@@ -1,0 +1,13 @@
+{
+	"required": true,
+	"package": "net.cobra.purpleheartforest.mixin",
+	"compatibilityLevel": "JAVA_21",
+	"mixins": [
+		"ExampleMixin",
+		"TrunkPlacerTypeMixin",
+		"FoliagePlacerTypeMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}

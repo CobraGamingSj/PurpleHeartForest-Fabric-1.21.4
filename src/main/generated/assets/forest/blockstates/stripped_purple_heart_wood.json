@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "forest:block/stripped_purple_heart_wood",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "forest:block/stripped_purple_heart_wood"
+    },
+    "axis=z": {
+      "model": "forest:block/stripped_purple_heart_wood",
+      "x": 90
+    }
+  }
+}
